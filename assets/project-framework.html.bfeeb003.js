@@ -1,0 +1,1 @@
+const e={key:"v-ca5234e4",path:"/md/using/project-build/project-framework.html",title:"\u9879\u76EE\u57FA\u672C\u9AA8\u67B6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650453974e3,contributors:[{name:"wzy",email:"992388202@qq.com",commits:1}]},filePathRelative:"md/using/project-build/project-framework.md"};export{e as data};

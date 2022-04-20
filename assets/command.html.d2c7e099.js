@@ -1,0 +1,1 @@
+const t={key:"v-5a9e4864",path:"/md/study/java/jvm/command.html",title:"Docker\u4E2D\u7684JVM",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650453974e3,contributors:[{name:"wzy",email:"992388202@qq.com",commits:1}]},filePathRelative:"md/study/java/jvm/command.md"};export{t as data};
